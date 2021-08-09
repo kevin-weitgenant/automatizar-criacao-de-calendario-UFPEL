@@ -1,1 +1,1 @@
-# automatizar-cria-o-de-calendario-UFPEL
+# automatizar-criacao-de-calendario-UFPEL
