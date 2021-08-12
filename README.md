@@ -12,6 +12,6 @@ Essa aplicação foi publicada no grupo do facebook da faculdade e ajudou vário
 
 Algumas observações:
 
-O jupyter notebook deve estar sempre executando para o site funcionar propiamente, nesse primeiro lançamento utilizei o serviço Google Colab, futuramente em um próximo semestre espero lançar em algo mais estável como na Amazon AWS EC2 ou em outro serviço similiar.
+O jupyter notebook deve estar sempre executando para o site funcionar propriamente, nesse primeiro lançamento utilizei o serviço Google Colab, futuramente em um próximo semestre espero lançar em algo mais estável como na Amazon AWS EC2 ou em outro serviço similiar.
 
 
